@@ -3,9 +3,9 @@
 
 
 <h1>Hey there! 👋</h1>
-I'm James, a senior Front-end even engineer, a creative code and on the weekends a scuba diving with a love for the stars.
+I'm James, a senior Front-end engineer, a creative coder in my spare time and a scuba diver with a love for the stars on the weekends. :dizzy:
 
-My mission is to convert customer focused designs into pixel-perfect applications that websites that run at the speed of light
+My mission is to converting customer focused designs into pixel-perfect applications and websites that run at the speed of light
 
 
 # Find me:
