@@ -12,7 +12,7 @@ My mission is to converting customer focused designs into pixel-perfect applicat
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/james-worwood-3a231438/)
 
 
-![playing](https://img.shields.io/badge/playing-tarkov-blue)
+![playing](https://img.shields.io/badge/playing-escape%20from%20tarkov-blue)
 ![coding](https://img.shields.io/badge/coding-its%20a%20secert-purple?logo=visualstudiocode)
 ![spotify](https://img.shields.io/badge/listening%20to-matchbox%20twenty-red?logo=spotify)
 
