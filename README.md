@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Welcom+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 
 
@@ -12,7 +12,7 @@ My mission is to converting customer focused designs into pixel-perfect applicat
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/james-worwood-3a231438/)
 
 
-![playing](https://img.shields.io/badge/playing-starfield-blue)
+![playing](https://img.shields.io/badge/playing-escape-from-tarkov-blue)
 ![coding](https://img.shields.io/badge/coding-its%20a%20secert-purple?logo=visualstudiocode)
 ![spotify](https://img.shields.io/badge/listening%20to-matchbox%20twenty-red?logo=spotify)
 
